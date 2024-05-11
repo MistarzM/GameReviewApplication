@@ -1,0 +1,292 @@
+[
+    {
+      "metacritic": "uncharted-4-a-thiefs-end",
+      "title": "Uncharted 4: A Thief's End",
+      "releaseDate": "2016-05-10",
+      "trailerLink": "https://www.youtube.com/watch?v=hh5HV4iic1Y",
+      "genres": [
+        "Action-adventure game", 
+        "Puzzle Video Game", 
+        "Third-person shooter",
+        "Stealth game"
+      ],
+      "poster": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-518831-52.jpg",
+      "developer" : "Naughty Dog",
+      "backdrops": [
+        "https://www.gamespot.com/a/uploads/original/1557/15576751/3057973-home_02.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058049-italy_11.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058050-italy_01.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058051-italy_03.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058052-ope_02.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058053-ope_01.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058054-city_06.jpg",
+        "https://www.gamespot.com/a/uploads/original/1406/14063904/3058055-sco_05.jpg"
+      ],
+      "platforms": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "Microsoft Windows"
+      ],
+      "reviewIds": []
+    },
+    {
+        "metacritic": "bloodborne",
+        "title": "Bloodborne",
+        "releaseDate": "2015-03-24",
+        "trailerLink": "https://www.youtube.com/watch?v=2Crk_GpxGQE",
+        "genres": [
+            "Action role-playing game",
+            "Fighting game",
+            "Action-adventure game", 
+            "Survival horror"
+        ],
+        "poster": "https://i.pinimg.com/736x/70/9a/f8/709af83b5b82b227dbc06e617e4b5e67.jpg",
+        "developer" : "FromSoftware Inc.",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1639/16394322/3948611-bbboss.jpeg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/2969404-0001%20%284%29.png",
+          "https://www.gamespot.com/a/uploads/original/280/2802776/2832034-bloodborne5.jpg",
+          "https://www.gamespot.com/a/uploads/original/280/2802776/2832032-bloodborne3.jpg",
+          "https://www.gamespot.com/a/uploads/original/280/2802776/2832031-bloodborne2.jpg",
+          "https://www.gamespot.com/a/uploads/original/280/2802776/2832030-bloodborne1.jpg"
+        ],
+        "platforms": [
+          "PlayStation 4"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "hollow-knight",
+        "title": "hollow-knight",
+        "releaseDate": "2017-02-24",
+        "trailerLink": "https://www.youtube.com/watch?v=nSPJXlYjENE",
+        "genres": [
+          "Metroidvania",
+          "Fighting game"
+        ],
+        "poster": "https://storage.googleapis.com/pod_public/1300/126597.jpg",
+        "developer" : "Team Cherry",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3431873-2018082221165400-22a4bdea5363aaa24f931d5af2926082.jpg",
+          "https://assetsio.gnwcdn.com/hollow-knight_ZX03Vhr.jpg?width=1200&height=600&fit=crop&enable=upscale&auto=webp",
+          "https://gamingbolt.com/wp-content/uploads/2018/07/hollow-knight-image.jpg",
+          "https://gamingbolt.com/wp-content/uploads/2018/07/hollow-knight-screenshot.jpg"
+        ],
+        "platforms": [
+          "Nintendo Switch",
+          "PlayStation 4",
+          "Xbox Cloud Gaming",
+          "MORE"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "ori-and-the-will-of-the-wisps",
+        "title": "Ori and the Will of the Wisps",
+        "releaseDate": "2020-03-11",
+        "trailerLink": "https://www.youtube.com/watch?v=2reK8k8nwBc&t=27s",
+        "genres": [
+          "Metroidvania",
+          "Fighting game",
+          "Shooter Video Game"
+        ],
+        "poster": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-633911-52.jpg",
+        "developer" : "Moon Studios",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642937-3-10-2020_4-21-30_pm-kv3wkctz.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642938-3-10-2020_4-21-31_pm-q4mtqyga.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642939-3-10-2020_4-21-31_pm-skaozgix.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642940-3-10-2020_4-21-32_pm-e5vzfnf1.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642941-3-10-2020_4-21-32_pm-gjxpob5u.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642942-3-10-2020_4-21-32_pm-za1f44mc.png",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3642943-3-10-2020_4-21-33_pm-0xurn2sz.png"
+        ],
+        "platforms": [
+          "Nintendo Switch",
+          "Xbox One",
+          "Xbox Series X",
+          "Xbox Series S",
+          "Microsoft Windows",
+          "Xbox Cloud Gaming",
+          "GeForce Now"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "the-last-of-us-part-ii-remastered",
+        "title": "The Last of Us Part II Remastered",
+        "releaseDate": "2020-06-19",
+        "trailerLink": "https://www.youtube.com/watch?v=vhII1qlcZ4E",
+        "genres": [
+          "Action-adventure game"
+        ],
+        "poster": "https://i0.wp.com/workingcasual.com/wp-content/uploads/2020/06/TLoU2-Art.jpg?ssl=1",
+        "developer" : "Naughty Dog",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682505-tloupii_review_screenshot_03.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682507-tloupii_review_screenshot_09.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682508-tloupii_review_screenshot_10.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682509-tloupii_review_screenshot_12.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682511-tloupii_review_screenshot_16.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3682513-tloupii_review_screenshot_18.jpg",
+          "https://www.gamespot.com/a/uploads/scale_super/1575/15759911/3682514-tloupii_review_screenshot_19.jpg"
+        ],
+        "platforms": [
+          "PlayStation 4",
+          "PlayStation 5"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "sekiro-shadows-die-twice",
+        "title": "Sekiro: Shadows Die Twice",
+        "releaseDate": "2019-03-22",
+        "trailerLink": "https://www.youtube.com/watch?v=rXMX4YJ7Lks",
+        "genres": [
+          "Action role-playing game",
+          "Action-adventure game"
+        ],
+        "poster": "https://www.gamespot.com/a/uploads/scale_landscape/43/434805/3513206-sekiro-shadows-die-twice-review-thumb-nologo.jpg",
+        "developer" : "FromSoftware Inc.",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/43/434805/3513210-sekiro_01_embargo_6.11__3pm_pt_.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/3513208-sekiro_09__pr_embargo_6.11__3pm__720.jpg"
+          ],
+        "platforms": [
+          "PlayStation 4",
+          "Xbox One",
+          "Microsoft Windows"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "alan-wake-ii",
+        "title": "Alan Wake II",
+        "releaseDate": "2023-10-27",
+        "trailerLink": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+        "genres": [
+          "Survival horror",
+          "Puzzle Video Game",
+          "Adventure game",
+          "Third-person shooter"
+        ],
+        "poster": "https://static.displate.com/857x1200/displate/2023-10-12/4a81517bb15d742da7d803c7c8ddae0f_503711d147d6ffc45eea17fa01734ef8.jpg",
+        "developer" : "Remedy Entertainment",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/scale_super/1632/16320660/4211011-alanwake2_det_4k_059%281%29.jpg",
+          "https://www.gamespot.com/a/uploads/scale_super/1632/16320660/4211012-alanwake2_det_4k_035.jpg",
+          "https://www.gamespot.com/a/uploads/original/1632/16320660/4211013-alanwake2_det_4k_048.jpg",
+          "https://www.gamespot.com/a/uploads/original/1632/16320660/4211014-alanwake2_screenshot-01342.jpg",
+          "https://www.gamespot.com/a/uploads/original/1632/16320660/4211015-awii_launch_16-10-23_038.png"
+        ],
+        "platforms": [
+          "PlayStation 5",
+          "Xbox Series X",
+          "Xbox Series S",
+          "GeForce Now",
+          "Microsoft Windows"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "red-dead-redemption-2",
+        "title": "Red Dead Redemption 2",
+        "releaseDate": "2018-10-26",
+        "trailerLink": "https://www.youtube.com/watch?v=gmA6MrX81z4",
+        "genres": [
+          "Shooter Video Game",
+          "Western",
+          "Entertainment",
+          "Action-adventure game",
+          "Nonlinear gameplay",
+          "Adventure",
+          "Societal"
+        ],
+        "poster": "https://static.printler.com/cache/3/0/f/3/3/9/30f339d317f7f873efbec0bd9deea5f4c5087ee9.jpg",
+        "developer" : "Rockstar Games",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455092-01_rdr2_ps4pro_tutorial_opening_mission.mov.00_02_59_54.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455093-01_rdr2_ps4pro_tutorial_opening_mission.mov.00_08_30_22.still002.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455094-06_rdr2_ps4pro_moving_camp.mov.00_11_03_34.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455095-01_rdr2_ps4pro_tutorial_opening_mission.mov.00_19_41_27.still003.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455096-01_rdr2_ps4pro_tutorial_opening_mission.mov.00_25_59_56.still004.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455097-07_rdr2_ps4pro_going_into_valentine_bar_fight.mov.00_03_16_52.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455098-05_rdr2_ps4pro_tutorial_train_robbery.mov.00_10_24_11.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455100-07_rdr2_ps4pro_going_into_valentine_bar_fight.mov.00_09_22_42.still003.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455101-07_rdr2_ps4pro_going_into_valentine_bar_fight.mov.00_18_26_49.still004.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455102-37_rdr2_ps4pro_findingsnakebiteguy_stealinghorses.mov.00_18_28_05.still003.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455103-07_rdr2_ps4pro_going_into_valentine_bar_fight.mov.00_27_19_21.still005.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455104-10_rdr2_ps4pro_first_bounty_hunt.mov.00_09_06_45.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455108-21_rdr2_ps4pro_talkingtojohn_stealingoilcarriage.mov.00_16_10_45.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455112-27_rdr2_ps4pro_savingtrewlany_chasingoutlaws_exploringrhodes.mov.00_14_33_41.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455114-38_rdr2_ps4pro_savingtrewlany.mov.00_13_26_59.still001.jpg",
+          "https://www.gamespot.com/a/uploads/original/1575/15759911/3455115-27_rdr2_ps4pro_savingtrewlany_chasingoutlaws_exploringrhodes.mov.00_16_18_25.still002.jpg"
+        ],
+        "platforms": [
+          "PlayStation 4",
+          "Xbox One",
+          "Microsoft Windows"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "baldurs-gate-3",
+        "title": "Baldur's Gate 3",
+        "releaseDate": "2023-08-03",
+        "trailerLink": "https://www.youtube.com/watch?v=1T22wNvoNiU",
+        "genres": [
+          "Role-playing Video Game",
+          "Adventure game",
+          "Strategy Video Game"
+        ],
+        "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1519/95cce955dc59d04e2ea5ab624a823ace14e9c5f7e24dfb8f.png",
+        "developer" : "Larian Studios",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204114-20231011101605_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204115-20230905210739_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204116-20230817143234_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204117-20230810091152_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204119-20231011101623_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204120-20231011102424_1.jpg",
+          "https://www.gamespot.com/a/uploads/original/43/434805/4204121-20231011102401_1.jpg"
+        ],
+        "platforms": [
+          "Windows",
+          "PlayStation 5",
+          "macOS",
+          "Xbox Series X/S"
+        ],
+        "reviewIds": []
+      },
+      {
+        "metacritic": "god-of-war",
+        "title": "God of War",
+        "releaseDate": "2018-04-20",
+        "trailerLink": "https://www.youtube.com/watch?v=CJ_GCPaKywg",
+        "genres": [
+          "Action-adventure game",
+          "Fighting game",
+          "Role-playing Video Game",
+          "Adventure"
+        ],
+        "poster": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/p3pYq0QxntZQREXRVdAzmn1w.png",
+        "developer" : "Santa Monica Studio",
+        "backdrops": [
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374928-gow-main2.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374929-screen%20%281%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374931-screen%20%283%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374932-screen%20%284%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374933-screen%20%285%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374935-screen%20%287%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374936-screen%20%288%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374937-screen%20%289%29.jpg",
+          "https://www.gamespot.com/a/uploads/original/1406/14063904/3374939-gow-main3.jpg",
+          "https://www.gamespot.com/a/uploads/original/1581/15811374/3926205-20220111113221_1.jpg"
+        ],
+        "platforms": [
+          "PlayStation 4",
+          "Microsoft Windows"
+        ],
+        "reviewIds": []
+      }
+]
