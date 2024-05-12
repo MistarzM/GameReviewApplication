@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.DocumentReference;
 
 @Document(collection = "games")
 @Data                                   //  @Data takes care about setters and getters, string methods
@@ -26,6 +27,7 @@ public class Game {
     private String developer;
     private List<String> backdrops;
     private List<String> platforms;
-
+    @DocumentReference              // In games collection, there will only be a list of review ids,
+    private List<String> reviewIds; // and the reviews will be in a different collection
 }
 
