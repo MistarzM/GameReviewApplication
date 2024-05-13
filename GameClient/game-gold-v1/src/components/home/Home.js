@@ -1,10 +1,8 @@
-import React from 'react'
+import Hero from '../hero/Hero';
 
-const Home = () => {
+const Home = ({games}) => {
     return(
-        <div>
-            Hello World!
-        </div>
+        <Hero games = {games}/>
     )
 }
 
