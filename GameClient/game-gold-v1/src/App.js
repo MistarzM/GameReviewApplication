@@ -1,23 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import api from './api/axiosConfig';
+import {useState, useEffect} from "react";
 
 function App() {
+
+  const [games, setGame] = useState();
+
+  const getGames = async () => {
+
+    try{
+      const response = await api.get("/api/v1/games");
+
+      console.log(response.data);
+
+      setGame(response.data);
+    } catch(error) {
+      console.log(error);
+    }
+
+  }
+
+  useEffect(() => {
+    getGames();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
     </div>
   );
 }
