@@ -11,7 +11,7 @@ const Hero = ({games}) => {
                         return (
                             <Paper>
                               <div className= 'game-card-container'>
-                                  <div className='game-card'>
+                                  <div className='game-card' style={{"--img": `url(${game.backdrops[0]})`}}>
                                     <div className='game-detail'>
                                         <div className='game-poster'>
                                             <img src = {game.poster} alt=""/>
