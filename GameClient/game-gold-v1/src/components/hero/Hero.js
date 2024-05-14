@@ -3,16 +3,24 @@ import Carousel from 'react-material-ui-carousel';
 import { Paper } from '@mui/material';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faCirclePlay} from "@fortawesome/free-solid-svg-icons";
-import {Link} from "react-router-dom"
+import {Link, useNavigate} from "react-router-dom";
+import Button from 'react-bootstrap/Button';
 
 const Hero = ({games}) => {
+
+        const navigate = useNavigate();
+
+        function reviews(gameId){
+            navigate(`/Reviews/${gameId}`);
+        }
+
     return(
         <div className='game-carousel-container'>
             <Carousel>
                 {
                     games?.map((game) =>{
                         return (
-                            <Paper>
+                            <Paper key={game.metacritic}>
                               <div className= 'game-card-container'>
                                   <div className='game-card' style={{"--img": `url(${game.backdrops[0]})`}}>
                                     <div className='game-detail'>
@@ -30,6 +38,9 @@ const Hero = ({games}) => {
                                                                      />
                                                 </div>
                                             </Link>
+                                            <div className="game-review-button-container">
+                                                <Button variant = "info" onClick={() => reviews(game.metacritic)} > Reviews </Button>
+                                            </div>
                                         </div>
                                     </div>
                                   </div>
