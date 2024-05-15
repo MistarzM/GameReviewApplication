@@ -7,7 +7,7 @@ import ReviewForm from "../reviewForm/ReviewForm";
 import React from 'react';
 
 const Reviews = ({getGameData, game, reviews, setReviews}) => {
-    const reviewText = useRef();
+    const revText = useRef();
     let params = useParams();
     const gameId = params.gameId;
 
@@ -18,7 +18,7 @@ const Reviews = ({getGameData, game, reviews, setReviews}) => {
     const addReview = async (e) =>{
         e.preventDefault();
 
-        const rev = reviewText.current;
+        const rev = revText.current;
 
         try {
             const response = await api.post("/api/v1/reviews", {reviewText: rev.value, metacritic: gameId});
@@ -47,7 +47,7 @@ const Reviews = ({getGameData, game, reviews, setReviews}) => {
                         <>
                             <Row>
                                 <Col>
-                                    <ReviewForm handleSubmit={addReview} reviewText={reviewText} labelText="Write a Review?" />
+                                    <ReviewForm handleSubmit={addReview} revText={revText} labelText="Write a Review?" />
                                 </Col>
                             </Row>
                             <Row>
@@ -62,7 +62,7 @@ const Reviews = ({getGameData, game, reviews, setReviews}) => {
                             return(
                                 <>
                                     <Row>
-                                        <Col>{r.body}</Col>
+                                        <Col>{r.text}</Col>
                                     </Row>
                                 </>
                             )
