@@ -28,6 +28,6 @@ public class Game {
     private List<String> backdrops;
     private List<String> platforms;
     @DocumentReference              // In games collection, there will only be a list of review ids,
-    private List<Review> reviewIds; // and the reviews will be in a different collection
+    private List<Review> reviews; // and the reviews will be in a different collection
 }
 

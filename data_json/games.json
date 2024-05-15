@@ -27,7 +27,7 @@
         "PlayStation 5",
         "Microsoft Windows"
       ],
-      "reviewIds": []
+      "reviews": []
     },
     {
         "metacritic": "bloodborne",
@@ -53,7 +53,7 @@
         "platforms": [
           "PlayStation 4"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "hollow-knight",
@@ -78,7 +78,7 @@
           "Xbox Cloud Gaming",
           "MORE"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "ori-and-the-will-of-the-wisps",
@@ -110,7 +110,7 @@
           "Xbox Cloud Gaming",
           "GeForce Now"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "the-last-of-us-part-ii-remastered",
@@ -135,7 +135,7 @@
           "PlayStation 4",
           "PlayStation 5"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "sekiro-shadows-die-twice",
@@ -157,7 +157,7 @@
           "Xbox One",
           "Microsoft Windows"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "alan-wake-ii",
@@ -186,7 +186,7 @@
           "GeForce Now",
           "Microsoft Windows"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "red-dead-redemption-2",
@@ -227,7 +227,7 @@
           "Xbox One",
           "Microsoft Windows"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "baldurs-gate-3",
@@ -256,7 +256,7 @@
           "macOS",
           "Xbox Series X/S"
         ],
-        "reviewIds": []
+        "reviews": []
       },
       {
         "metacritic": "god-of-war",
@@ -287,6 +287,6 @@
           "PlayStation 4",
           "Microsoft Windows"
         ],
-        "reviewIds": []
+        "reviews": []
       }
 ]
